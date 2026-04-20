@@ -3,7 +3,7 @@
 A Foundry template for building and deploying Solidity contracts on Creditcoin, with a one-command local devnet via Docker.
 
 - **Foundry project** pre-configured for Creditcoin 3 (CC3) and its Frontier EVM quirks.
-- **Dockerized local devnet** based on the official `gluwa/creditcoin3` image, with Foundry and this repo baked in.
+- **Dockerized local devnet** based on the official [creditcoin3](https://github.com/gluwa/creditcoin3) image, with Foundry and this repo baked in.
 - **Sample `Counter` contract**, deploy script, and test — a known-good end-to-end baseline you can replace with your own work.
 
 ## Quick start
